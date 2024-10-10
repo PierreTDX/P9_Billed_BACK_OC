@@ -11,7 +11,7 @@ Le projet frontend se trouve ici: https://github.com/PierreTDX/P9_Billed_FRONT_O
 
 ### Cloner le projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/PierreTDX/P9_Billed_BACK_OC.git
 ```
 ### Utilisez une version de node compatible
 Si vous utilisez une version récente de node sur votre ordinateur, il se peut qu'il y ai des erreurs lors de l'installation de certaines dépendances. Pour cela il est important de vous assurer que vous ayez une version de node compatible par exemple node v16 ou v18. 
@@ -35,7 +35,7 @@ Voici quelques indications pour gérer les version de node sur votre ordinateur:
     - `nvm use 18.16.1`
 ### Acceder au repertoire du projet :
 ```
-cd Billed-app-FR-Back
+cd P9_Billed_BACK_OC
 ```
 
 ### Installer les dépendances du projet :
@@ -76,12 +76,12 @@ mot de passe : employee
 
 ### Clone the projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/PierreTDX/P9_Billed_BACK_OC.git
 ```
 
 ### Go to the project directory :
 ```
-cd Billed-app-FR-Back
+cd P9_Billed_BACK_OC
 ```
 
 ### Install project dependancies :
@@ -93,7 +93,7 @@ npm install
 ### Run the API :
 
 ```
-npm run:dev
+npm run run:dev
 ```
 
 ### Access to the PAI :
